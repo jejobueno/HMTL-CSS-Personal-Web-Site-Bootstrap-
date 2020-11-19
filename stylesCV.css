@@ -1,0 +1,136 @@
+#border-profil{
+    position: absolute;
+    object-fit: contain;
+    padding: 6px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: orange;
+    overflow: hidden;
+    width: 240px;
+    height: 370px;
+    position: relative;
+    margin-top: 85px;
+    margin-left: 170px;
+    
+}
+
+
+#square-profil{
+    border-radius: 15px;
+    padding: 0px;
+    overflow: hidden;
+    height: 350px;
+    position: relative;
+    
+}
+
+#square-profil > #photo-profil{
+    position: absolute;
+    left: -10%;
+    border-radius: 15px;
+    min-width: 130%;
+    min-height: 100%;
+}
+
+#hello-there-title{
+    font-weight: 900;
+    font-size: 600%;
+    color: #cdd3d5;
+    margin-top: 200px;
+    margin-left: 40px;
+    line-height: 100%;
+}
+
+#name-title{
+    position: absolute;
+    left: 640px;
+    top: 25px;
+    margin-top: 95px;
+    
+}
+
+#name{
+    font-weight: 900;
+    font-size: 60px;
+    color: orange;
+    line-height: 100%;
+}
+
+.line-blue{
+    height: 10px;
+    border-radius: 15px;
+    margin: -15px 0px 0px 0px;
+}
+
+.text-ing{
+    font-family: 'Khand', sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+}
+
+#section{
+    margin: 0px 0px 0px 80px;
+}
+
+.section-content-title{
+    font-size: 30px;
+    font-weight: 900;
+    letter-spacing: 3px;
+    color: #78A3B1;
+}
+
+.title-section{
+    font-family: 'Khand', sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    letter-spacing: -2px;
+    margin-top: -10px;
+}
+
+.enum-section{
+    margin-left: 40px;
+}
+
+#line-divisor{
+    position: absolute;
+    height: 1300px;
+    margin-left: -50px;
+    margin-top: 40px;
+}
+
+.personal-data-style-1{
+    color: gray;   
+    margin-top: 60px;
+}
+
+
+.left-section-title-style{
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 900;
+    color: orange;  
+}
+
+
+.aboutme-style{
+    margin-left: 3px;
+    font-size: 17px;
+    color: gray; 
+}
+
+#link-section{
+    margin: 60px 0px 10px 30px;
+}
+
+.link-style-text{
+    text-decoration: none;
+    color: gray;
+    font-weight: bold;
+}
+
+.bar-style{
+    position: absolute;
+    height: 11px;
+    border-radius: 15px;
+    margin: -8px 0px 0px 0px;
+}

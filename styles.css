@@ -1,0 +1,73 @@
+body{
+    font-family:'Montserrat', sans-serif;
+    color: black;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+.navbar {
+    font-size: 1.5 rem;
+    font-weight: 600;
+    letter-spacing: .1rem;
+}
+
+.navlink{
+    color: grey;
+}
+
+#portada{
+    background-image: url("https://www.bejob.com/wp-content/uploads/2017/05/wordrpress-1024x682-970x535.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -150px;
+    background-position: center;
+    margin-bottom: 0;
+    height: 450px;
+    padding: 0px;
+    margin: 0px;
+    align-items: center;
+}
+
+.title-custom{
+    width: 570px;
+    left: 50%;
+    margin-left: -285px;
+    position: absolute;
+    top: 20%;
+    background-color: rgb(0, 0, 0,.4);
+    color: white;
+}
+
+.text-1{
+    font-size: 3rem;
+    font-weight: 100;
+    padding: 20px 20px 0px 20px;
+    margin : 0px;
+    text-align: center;
+}
+
+.line-examp{
+    padding: 50px 20px 60px 20px;
+    text-align: center;
+}
+
+.bottompage{
+    height: 200px;
+    color: white;
+    text-align: center;
+}
+
+.container-3{
+    padding: 50px 20px 20px 20px;
+    background-image: url(https://fanfan.es/wp-content/uploads/2019/10/internet-5.jpg);
+    background-position-y: -330px;
+    background-color: #dedede;
+    text-align: center;
+    color: white;
+}
+
+
+
