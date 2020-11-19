@@ -31,6 +31,19 @@ img{
     align-items: center;
 }
 
+#portada-contacto{
+    background-image: url("https://assets.kpmg/content/dam/kpmg/ng/images/contactus.jpg/jcr:content/renditions/original");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: 0px;
+    margin-bottom: 0;
+    height: 450px;
+    padding: 0px;
+    margin: 0px;
+    align-items: center;
+    
+}
+
 .title-custom{
     width: 570px;
     left: 50%;
@@ -69,5 +82,79 @@ img{
     color: white;
 }
 
+.content-contact-page{
+    box-sizing: border-box;
+    background: #cecece;
+    color: white;
+    padding: 4rem;
+}
+
+.content{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2rem;
+}
+
+.logo-tittle{
+    text-align: center;
+    font-size: 3rem;
+}
+
+.contact-wrapper{
+    box-shadow: 0 0 20px 0 rgb(0, 0, 0,1);
+    background-color:#181818;
+}
+
+.contact-form{
+    margin: 0px;
+    padding: 40px;
+}
+
+.contact-form form{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.contact-form .block{
+    grid-column: 1/3;
+}
+
+.contact-form form button,
+.contact-form form input,
+.contact-form form textarea {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background: none;
+    border-bottom: 1px solid oldlace;
+    color: oldlace;
+}
+
+.contact-form form button {
+    background-color: #78A3B1;
+    border: 0;
+    text-transform: uppercase;
+    padding: 15px;
+    color: oldlace;
+}
+
+.contact-info{
+    padding: 30px;
+}
+
+.contact-info h4,
+.contact-info ul,
+.contact-info p{
+    text-align: center;
+    margin: 0 0 1rem 0;
+}
+
+.contact-info ul{
+    list-style: none;
+    padding: 10px;
+    font-weight: 100;
+    
+}
 
 
