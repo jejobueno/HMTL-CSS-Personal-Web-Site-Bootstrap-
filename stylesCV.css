@@ -1,15 +1,19 @@
+#portadaCV{
+    background-color: lightslategray;
+}
+
 #border-profil{
     position: absolute;
     object-fit: contain;
     padding: 6px;
     border-radius: 15px;
     border-style: solid;
-    border-color: orange;
+    border-color: white;
     overflow: hidden;
     width: 240px;
     height: 370px;
     position: relative;
-    margin-top: 85px;
+    margin-top: 35px;
     margin-left: 170px;
     
 }
@@ -35,8 +39,8 @@
 #hello-there-title{
     font-weight: 900;
     font-size: 600%;
-    color: #cecece;
-    margin-top: 200px;
+    color: white;
+    margin-top: 140px;
     margin-left: 40px;
     line-height: 100%;
 }
@@ -44,15 +48,15 @@
 #name-title{
     position: absolute;
     left: 640px;
-    top: 25px;
-    margin-top: 95px;
+    top: 5px;
+    margin-top: 55px;
     
 }
 
 #name{
     font-weight: 900;
     font-size: 60px;
-    color: orange;
+    color: lightskyblue;
     line-height: 100%;
 }
 
@@ -66,6 +70,7 @@
     font-family: 'Khand', sans-serif;
     font-weight: 500;
     font-size: 40px;
+    color: #cdd7ed;
 }
 
 #section{

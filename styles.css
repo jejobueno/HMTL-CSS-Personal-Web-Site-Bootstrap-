@@ -104,7 +104,7 @@ img{
 
 .contact-wrapper{
     box-shadow: 0 0 20px 0 rgb(0, 0, 0,1);
-    background-color:#181818;
+    background-color:gray;
 }
 
 .contact-form{
@@ -133,14 +133,14 @@ img{
 }
 
 .contact-form form button {
-    background-color: #78A3B1;
+    background-color: orange;
     border: 0;
     text-transform: uppercase;
     padding: 15px;
     color: oldlace;
 }
-
 .contact-info{
+    background-color: lightslategrey;
     padding: 30px;
 }
 
@@ -154,7 +154,7 @@ img{
 .contact-info ul{
     list-style: none;
     padding: 10px;
-    font-weight: 100;
+    font-weight: 300;
     
 }
 
